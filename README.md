@@ -23,11 +23,13 @@ InsertIntoABinarySearchTree_701.java
 This Repository Lists all the LeetCode Problems based on DS Topic and difficulty level.
 
 
-## Sliding Window
+## Microsoft Challenges
 
 
 
 |  S.No  | LeetCode Challenge             | Java Solution           |    Difficulty         |     Learnings/Tips       |
 |-----|---------------- | ----------------------- | ------------- | -------------------------------------------- | 
-1 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution - Iterative](https://github.com/gopinathmb/LeetCode/blob/main/src/main/java/com/gopi/leetcode/tree/BinaryTreeInorderTraversal_094_Iterative.java) | Easy       |All traversals learn both iterative and Recursive.           |
-2 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution - Recursive](https://github.com/gopinathmb/LeetCode/blob/main/src/main/java/com/gopi/leetcode/tree/BinaryTreeInorderTraversal_094_Recursive.java) | Easy       |           |
+1 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution]() | Medium       |We can use either of BFS or DFS         |
+2 |  |  |  |   |
+4 |  |  |  |   |
+200 | [LC Question](LC Question Link) | [Solution](Solution Link) | Difficulty Level       |Any learnings/patterns/useful links       |
