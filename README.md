@@ -15,7 +15,7 @@ Ex: Below is the question
 701. Insert into a Binary Search Tree.
 https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
- **My File name will be**
+ **My File name will be as below **
 
 InsertIntoABinarySearchTree_701.java
 
